@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# Data & models (large / license-restricted)
+data/*
+!data/README.md
+models/*
+!models/.gitkeep
+*.pth
+*.pt
+*.zip
+predictedMasks/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
