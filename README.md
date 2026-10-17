@@ -7,7 +7,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-preprocessing-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-[Open in Colab](https://colab.research.google.com/github/yasminemagdy/baggage-threat-localization/blob/main/notebooks/unet_localization_colab.ipynb) · [Walkthrough Video](https://youtu.be/kDQQWtXgnKI) · [Project Report](docs/CEN454_Individual_Reflection_Report.pdf)
+[Open in Colab](https://colab.research.google.com/github/yasminemagdy/baggage-threat-localization/blob/main/notebooks/unet_localization_colab.ipynb) · 
 
 ## Description
 
