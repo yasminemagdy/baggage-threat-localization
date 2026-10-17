@@ -113,11 +113,6 @@ See [`data/README.md`](data/README.md). The dataset is not included.
 - Some ground-truth masks do not match their images, so the annotations need an audit.
 - Planned: multiclass segmentation with clean per-class masks, U-Net++, and an O-Net-inspired dual-input model.
 
-## Team
-
-- **Yasmin Magdy Loksha**: preprocessing, U-Net localization, evaluation, debugging
-- **TEAMMATE NAMES**: add their roles (e.g. classification, feature extraction)
-- **Supervisor:** Dr. Sajid Gul Khawajah, Abu Dhabi University
 
 *AI disclosure:* ChatGPT was used for brainstorming and debugging support; all suggestions were tested and validated.
 
